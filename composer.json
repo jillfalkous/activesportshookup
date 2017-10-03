@@ -8,7 +8,11 @@
         "wikimedia/composer-merge-plugin": "~1.4",
         "drupal/commerce": "2.x-dev",
         "drupal/console": "~1.0",
-        "drupal/core": "^8.3"
+        "drupal/core": "^8.3",
+        "drupal/geofield_map": "^1.10",
+        "drupal/devel": "^1.0",
+        "drupal/geocoder": "^2.0@alpha",
+        "drupal/multiple_registration": "^1.5"
     },
    
     "minimum-stability": "dev",
